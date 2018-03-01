@@ -16,9 +16,28 @@ fieldset, img { border:0; }
 button, input, select, textarea { font-size:100%; }
 table { border-collapse:collapse; border-spacing:0; }
 
-/*头部样式*/
-    .item-nav {
+    /*头部样式*/
+    .nav {
         background-color: #666666;
+        margin : 0 20% 0 20%;
+        vertical-align: middle;
     }
+
+    /*功能模块样式*/
+    .nav-box {
+        background-color: #ffffff;
+        float: left;
+        width: 40%;
+        height: 200px;
+        text-align: center;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+
+
 
 
